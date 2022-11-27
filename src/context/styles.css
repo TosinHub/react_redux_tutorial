@@ -1,0 +1,19 @@
+.ChildClass {
+  border: 2px solid red;
+
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.GrandChildClass {
+  border: 2px solid blue;
+  margin: 20px;
+
+  border-radius: 5px;
+}
+
+.Parent {
+  border: 2px solid green;
+
+  border-radius: 5px;
+}
